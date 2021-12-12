@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"SemVersion": "1.0.3",
+	"SemVersion": "1.0.4",
 	"VersionName": "1.0",
 	"FriendlyName": "StorageTeleporter",
 	"Description": "Lets you Teleport things",
@@ -19,7 +19,7 @@
 		{
 			"Enabled": true,
 			"Name": "SML",
-			"SemVersion": "^3.2.0",
+			"SemVersion": "^3.3.0",
 			"bIsOptional": false
 		}
 	]

@@ -1,11 +1,11 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"SemVersion": "1.0.7",
+	"SemVersion": "1.0.8",
 	"VersionName": "1.0",
 	"FriendlyName": "StorageTeleporter",
 	"Description": "Lets you Teleport things",
-	"Category": "Other",
+	"Category": "Modding",
 	"CreatedBy": "Blockout22",
 	"CreatedByURL": "",
 	"DocsURL": "",

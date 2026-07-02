@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"SemVersion": "1.2.1",
+	"SemVersion": "1.2.2",
 	"VersionName": "1.2",
 	"FriendlyName": "StorageTeleporter",
 	"Description": "Lets you Teleport things",
@@ -19,10 +19,11 @@
 		{
 			"Enabled": true,
 			"Name": "SML",
-			"SemVersion": "^3.11.1",
+			"SemVersion": "^3.12.0",
 			"bIsOptional": false
 		}
 	],
 	"AcceptsAnyRemoteVersion": false,
-	"GameVersion": ">=416835"
+	"GameVersion": ">=491125",
+	"BuiltInInitialFeatureState": "Active"
 }

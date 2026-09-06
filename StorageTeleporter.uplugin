@@ -12,6 +12,18 @@
 	"MarketplaceURL": "",
 	"SupportURL": "https://discord.gg/ds696q4",
 	"CanContainContent": true,
+	"Modules": [
+		{
+			"Name": "StorageTeleporter",
+			"Type": "Runtime",
+			"LoadingPhase": "PostDefault"
+		},
+		{
+			"Name": "StorageTeleporterEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,

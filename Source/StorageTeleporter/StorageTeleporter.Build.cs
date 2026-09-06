@@ -36,6 +36,8 @@ public class StorageTeleporter : ModuleRules
 			{
 				"CoreUObject",
 				"Engine",
+				"FactoryGame",
+				"SML",
 				"Slate",
 				"SlateCore",
 				// ... add private dependencies that you statically link with here ...	
